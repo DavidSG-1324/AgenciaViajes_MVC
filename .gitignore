@@ -2,7 +2,6 @@ config/db_original.js
 
 .env
 node_modules/
-
 package-lock.json
 
 agenciaviajes.dump

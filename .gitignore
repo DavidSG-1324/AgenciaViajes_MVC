@@ -4,6 +4,5 @@ config/db_original.js
 node_modules/
 package-lock.json
 
-agenciaviajes.sql
 agenciaviajes.dump
 
